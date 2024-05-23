@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/example.dir/Program.cpp.o -o example  libex1.a libex2.a libex3.a 
